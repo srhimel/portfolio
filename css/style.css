@@ -2754,6 +2754,7 @@ footer {
   position: relative;
   font-weight: 900;
   font-size: 4.5em;
+  max-width: 100% !important;
 }
 .ml4 .letters {
   position: absolute;
