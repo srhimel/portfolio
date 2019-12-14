@@ -542,7 +542,7 @@ dd {
   border-radius: 100px;
   content: "";
   height: 100%;
-  left: -2px;
+  left: 0;
   position: absolute;
   top: 0;
   width: 100%;
